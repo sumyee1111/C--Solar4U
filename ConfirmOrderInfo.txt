@@ -1,0 +1,242 @@
+
+TransactionNumber:939399
+Date:17-11-2024
+12
+999999
+22
+@.
+Type:Canadian Solar
+Size:72 Cell
+Number:12
+Type:10KWh
+Inverter:Hybrid > 700 Cells
+Expedited:Standard Install
+Overall Cost:€78,272.40
+Interest Rate(Y/M):
+6.15%/0.51%
+Monthly Repayment: 
+€1,518.69
+Total Interest: 
+€12,849.01
+=== End ===
+TransactionNumber:977679
+Date:Date:17-11-2024
+给
+333333
+2
+@.
+Type:Trina Solar
+Size:72 Cell
+Number:12
+Type:10KWh
+Inverter:Hybrid > 700 Cells
+Expedited:Standard Install
+Overall Cost:€77,366.21
+Interest Rate(Y/M):
+6.15%/0.51%
+Monthly Repayment: 
+€1,501.11
+Total Interest: 
+€12,700.25
+=== End ===
+TransactionNumber:644320
+17-11-2024
+12
+222222
+3
+@.
+Type:Jinko Solar
+Size:30 Cell
+Number:1
+Type:10KWh
+Inverter:Hybrid < 700 Cells
+Expedited:Standard Install
+Overall Cost:€76,817.75
+Interest Rate(Y/M):
+7.25%/0.60%
+Monthly Repayment: 
+€2,380.70
+Total Interest: 
+€8,887.43
+=== End ===
+TransactionNumber:107131
+Date:17-11-2024
+32
+451111
+1
+@.
+Type:Q-Cell
+Size:48 Cell
+Number:324
+Type:10KWh
+Inverter:Hybrid > 700 Cells
+Expedited:Expediated Install
+Overall Cost:€109,828.64
+Interest Rate(Y/M):
+6.15%/0.51%
+Monthly Repayment: 
+€2,130.96
+Total Interest: 
+€18,029.20
+=== End ===
+TransactionNumber:417765
+Date:17-11-2024
+双方的
+212121
+222222
+@.
+Type:Jinko Solar
+Size:72 Cell
+Number:11
+Type:10KWh
+Inverter:Hybrid > 700 Cells
+Expedited:Expediated Install
+Overall Cost:€77,930.53
+Interest Rate(Y/M):
+6.15%/0.51%
+Monthly Repayment: 
+€1,512.06
+Total Interest: 
+€12,792.89
+=== End ===
+TransactionNumber:830443
+Date:18-11-2024
+反光板
+556455
+1323
+@.
+Type:Trina Solar
+Size:72 Cell
+Number:1
+Type:5 KWh
+Inverter:Hybrid < 700 Cells
+Expedited:Standard Install
+Overall Cost:€6,391.50
+Interest Rate(Y/M):
+8.50%/0.71%
+Monthly Repayment: 
+€557.47
+Total Interest: 
+€298.08
+=== End ===
+TransactionNumber:830443
+Date:18-11-2024
+反光板
+556455
+1323
+@.
+Type:Trina Solar
+Size:72 Cell
+Number:1
+Type:5 KWh
+Inverter:Hybrid < 700 Cells
+Expedited:Standard Install
+Overall Cost:€6,391.50
+Interest Rate(Y/M):
+8.50%/0.71%
+Monthly Repayment: 
+€557.47
+Total Interest: 
+€298.08
+=== End ===
+TransactionNumber:457996
+Date:18-11-2024
+gg
+131313
+2342
+@.
+Type:Canadian Solar
+Size:72 Cell
+Number:12
+Type:5 KWh
+Inverter:Hybrid > 700 Cells
+Expedited:Standard Install
+Overall Cost:€10,193.20
+Interest Rate(Y/M):
+7.50%/0.63%
+Monthly Repayment: 
+€204.25
+Total Interest: 
+€2,061.85
+=== End ===
+TransactionNumber:969128
+Date:18-11-2024
+3法国5
+564565
+23
+@.
+Type:Trina Solar
+Size:72 Cell
+Number:56
+Type:5 KWh
+Inverter:Hybrid > 700 Cells
+Expedited:Standard Install
+Overall Cost:€19,928.92
+Interest Rate(Y/M):
+6.80%/0.57%
+Monthly Repayment: 
+€392.74
+Total Interest: 
+€3,635.40
+=== End ===
+TransactionNumber:949054
+Date:18-11-2024
+34
+435435
+34565432
+@.
+Type:Trina Solar
+Size:96 Cell
+Number:34
+Type:10KWh
+Inverter:Hybrid > 700 Cells
+Expedited:Standard Install
+Overall Cost:€83,471.08
+Interest Rate(Y/M):
+7.25%/0.60%
+Monthly Repayment: 
+€2,586.90
+Total Interest: 
+€9,657.19
+=== End ===
+
+TransactionNumber:953892
+Date:18-11-2024
+放到
+554654
+23434
+@.
+Type:Canadian Solar
+Size:60 Cell
+Number:23
+Type:10KWh
+Inverter:Hybrid > 700 Cells
+Expedited:Standard Install
+Overall Cost:€77,867.72
+Interest Rate(Y/M):
+7.25%/0.60%
+Monthly Repayment: 
+€2,413.24
+Total Interest: 
+€9,008.91
+=== End ===
+TransactionNumber:955589
+Date:18-11-2024
+herry
+H91EX7
+364327
+hfhud@.com
+Type:Trina Solar
+Size:60 Cell
+Number:33
+Type:10KWh
+Inverter:Hybrid > 700 Cells
+Expedited:Standard Install
+Overall Cost:€78,153.94
+Interest Rate(Y/M):
+7.25%/0.60%
+Monthly Repayment: 
+€2,422.11
+Total Interest: 
+€9,042.02
+=== End ===
